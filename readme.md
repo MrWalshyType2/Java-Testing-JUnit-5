@@ -5,6 +5,8 @@
 3. Run your tests and verify they run correctly
 
 ## Commands
+`git clone` to clone a project from GitHub
+
 `mvn clean` to clean your project, removes all files from the **target** folder
 
 `mvn clean package` cleans the project, then packages the application as a jar file
