@@ -4,7 +4,7 @@ import com.qa.simple_ims.model.Item;
 import com.qa.simple_ims.service.ItemNotFoundException;
 import com.qa.simple_ims.service.ItemService;
 
-public class ItemController implements ItemCrud {
+public class ItemController implements ItemCrudController {
 	
 	private ItemService itemService;
 	
